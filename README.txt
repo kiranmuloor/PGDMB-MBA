@@ -1,0 +1,2 @@
+# PGDMB-MBA
+Assignments
